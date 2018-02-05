@@ -1,0 +1,14 @@
+{
+    "name": "benfurfie/acf-field-check",
+    "description": "A utility class that allows you to easily check if a field type exists and sync it with a site.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Furfie",
+            "email": "ben.furfie@textlocal.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
